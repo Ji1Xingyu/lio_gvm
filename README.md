@@ -5,6 +5,8 @@ We are thrilled to announce that our paper has been accepted by RA-L!
 
 ## Project Update
 The code will be gradually released. 
+.cpp files--------Updated
+.hpp files--------To be updated
 
 ## Research Paper
 For those interested in the detailed workings and methodologies of our project, please refer to our paper titled [LIO-GVM: an Accurate, Tightly-Coupled Lidar-Inertial Odometry with Gaussian Voxel Map](https://arxiv.org/pdf/2306.17436.pdf)
