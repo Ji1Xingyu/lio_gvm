@@ -4,7 +4,7 @@
 We are thrilled to announce that our paper has been accepted by RA-L!
 
 ## Project Update
-The code will be gradually released. 
+The code will be gradually released.   
 .cpp files--------Updated   
 .hpp files--------To be updated
 
